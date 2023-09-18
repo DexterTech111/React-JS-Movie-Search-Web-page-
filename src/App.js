@@ -5,6 +5,7 @@ import MovieCard from './MovieCard.jsx';
 
 // omdbapiKey => 5d4435fe
 
+//const API_URL = 'https://omdbapi.com?apikey=5d4435fe';
 const API_URL = 'https://omdbapi.com?apikey=5d4435fe';
 
 
